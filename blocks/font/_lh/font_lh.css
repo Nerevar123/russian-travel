@@ -1,0 +1,38 @@
+.font_lh_xxs {
+  line-height: 1.12;
+}
+
+.font_lh_xs {
+  line-height: 1.14;
+}
+
+.font_lh_s {
+  line-height: 1.17;
+}
+
+.font_lh_m {
+  line-height: 1.2;
+}
+
+.font_lh_l {
+  line-height: 1.4;
+}
+
+.font_lh_xl {
+  line-height: 1.62;
+}
+
+@media screen and (max-width: 320px){
+  .font_lh_s {
+    line-height: 1.33;
+  }
+  .font_lh_m {
+    line-height: 1.25;
+  }
+  .font_lh_xxs {
+    line-height: 1;
+  }
+  .font_lh_xs {
+    line-height: 1;
+  }
+}

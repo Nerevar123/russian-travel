@@ -1,0 +1,9 @@
+.place__link {
+  -webkit-transition: opacity 0.2s linear;
+  -o-transition: opacity 0.2s linear;
+  transition: opacity 0.2s linear;
+}
+
+.place__link:hover {
+  opacity: 0.8;
+}
