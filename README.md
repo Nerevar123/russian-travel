@@ -16,6 +16,10 @@ https://nerevar123.github.io/russian-travel/index.html
 
 **Change-log**
 
+_v1.1_
+
+Исправлены ошибки, убран блок font.
+
 _v1.0_
 
 Первая версия сайта.

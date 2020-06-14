@@ -2,8 +2,18 @@
   -webkit-transition: opacity 0.2s linear;
   -o-transition: opacity 0.2s linear;
   transition: opacity 0.2s linear;
+  font-size: 18px;
+  line-height: 1.22;
+  color: inherit;
 }
 
 .place__link:hover {
   opacity: 0.8;
+}
+
+@media screen and (max-width: 500px){
+  .place__link {
+    font-size: 14px;
+    line-height: 1.14;
+  }
 }

@@ -21,6 +21,7 @@
   background-position: center;
   position: relative;
   z-index: 0;
+  color: inherit;
 }
 
 .cover__link::after {

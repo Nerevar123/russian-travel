@@ -4,6 +4,9 @@
   padding-left: 0;
   margin-top: 0;
   margin-bottom: 0;
+  font-size: 12px;
+  line-height: 1.5;
+  font-weight: bold;
 }
 
 @media screen and (max-width: 768px){
